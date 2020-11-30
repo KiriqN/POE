@@ -1,0 +1,4 @@
+C:\Users\jared\source\repos\Rouge Game Gade6112\Rouge Game Gade6112\obj\Debug\Rouge Game Gade6112.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Rouge Game Gade6112\Rouge Game Gade6112\obj\Debug\Rouge_Game_Gade6112.Properties.Resources.resources
+C:\Users\jared\source\repos\Rouge Game Gade6112\Rouge Game Gade6112\obj\Debug\Rouge Game Gade6112.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Rouge Game Gade6112\Rouge Game Gade6112\obj\Debug\Rouge Game Gade6112.csproj.CoreCompileInputs.cache
